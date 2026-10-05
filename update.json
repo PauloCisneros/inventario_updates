@@ -1,6 +1,6 @@
 {
-    "version": "1.2.0",
-    "url": "https://github.com/PeerJack22/inventario_updates/releases/download/v1.2.0/SistemaInventario.exe",
-    "sha256": "9CD92E0C0EE7824127C7E2817297CED144912F7B3C665C6633AC346DF7CFE127",
-    "notes": "Actualización de la versión 1.2.0"
+    "version": "1.2.1",
+    "url": "https://github.com/PeerJack22/inventario_updates/releases/download/v1.2.1/SistemaInventario.exe",
+    "sha256": "DA9AC370799AD46CCB32129979740A0348489F705BFCF58DCD1B8A20C4E3F6BF",
+    "notes": "Actualización de la versión 1.2.1 Los correos de stock bajo ahora mandan el proveedor"
 }
