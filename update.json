@@ -1,6 +1,6 @@
 {
-    "version": "1.2.1",
-    "url": "https://github.com/PeerJack22/inventario_updates/releases/download/v1.2.1/SistemaInventario.exe",
-    "sha256": "DA9AC370799AD46CCB32129979740A0348489F705BFCF58DCD1B8A20C4E3F6BF",
-    "notes": "Actualización de la versión 1.2.1 Los correos de stock bajo ahora mandan el proveedor"
+    "version": "1.3.0",
+    "url": "https://github.com/PeerJack22/inventario_updates/releases/download/v1.3.0/SistemaInventario.exe",
+    "sha256": "998BE0D2A6EDA80C76650F8A41C68660DD5EA5D1E0F9BEA67F0899F71F5E9DFF",
+    "notes": "Actualización de la versión 1.3.0 : Ahora se puede registrar los autoconsumos de los productos y se restan en el inventario"
 }
